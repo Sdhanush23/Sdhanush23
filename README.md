@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src=" https://github.com/Sdhanush23/Sdhanush23/blob/f35293dde2423b3a5024216f246bb8166db7b79a/.github/workflows/snake.yml" alt="Snake animation" />
+<img src=" https://raw.githubusercontent.com/Sdhanush23/Sdhanush23/output/snake.svg" alt="Snake animation" />
 
 ###
